@@ -1,6 +1,6 @@
 {
   "name": "react-simple-format",
-  "version": "0.3.0",
+  "version": "0.3.0-prop-types",
   "description": "Turns double newlines into different paragraphs. Similar to RoR simple_format.",
   "main": "lib/index",
   "repository": {
@@ -48,6 +48,7 @@
     "react": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "sanitize-html": "^1.11.1"
   },
   "standard": {
